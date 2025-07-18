@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muhammad Raees</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Muhammad+Raees;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express" alt="Typing SVG" />
+</p>
+
 <h3 align="center">💻 Passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
@@ -9,9 +12,9 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **TypeScript, Next.js, Firebase**
+- 🌱 I’m currently learning **Agentic AI, Python Programming**
 - 🔭 I’m currently working on: a **Translation Chrome Extension**
-- 💬 Ask me about: **React, Firebase, MongoDB, REST APIs**
+- 💬 Ask me about: **MongoDB, Expressjs, Reactjs, Nodejs, REST APIs**
 - 👯 I’m open to collaborate on **Open Source & MERN Projects**
 - ⚡ Fun fact: I believe in **building real-world solutions**, not just code!
 
@@ -57,24 +60,17 @@
 
 - Visual Studio Code
 - Git & GitHub
-- Chrome DevTools
-- Firebase Console
 - Postman
 
 ---
 
-### 📌 Pinned Projects Suggestion
+### 📌 Pinned Projects
 
 - 🔗 Chrome Translator Extension (EN ↔ UR)
+- 🧠 AI-powered Student Assignment Grader
 - 🛒 MERN E-commerce App
 - 📝 Blogging Website
 - 💼 Interactive Resume Builder
 - 🔐 Firebase Auth App
-- 🧠 AI-powered Student Assignment Grader
 
----
-
-## 💡 Tip: Use This as Portfolio Link in Resume or Job Applications
-
-> `github.com/M-RaeesDev` ← Your professional portfolio
 

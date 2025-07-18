@@ -1,8 +1,9 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FEEE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Raees+-+MERN+Stack+Developer+(MongoDB%2C+Express%2C+React%2C+Node)&stroke=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00ffff&stroke=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Raees;MERN+Stack+Developer;MongoDB%2C+Express%2C+React%2C+Node" alt="Typing SVG" />
 </p>
+
 
 
 

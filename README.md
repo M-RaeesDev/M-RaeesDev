@@ -14,7 +14,7 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **Agentic AI, Python Programming**
-- 🔭 I’m currently working on: a **Translation Chrome Extension**
+- 🔭 I’m currently working on: a **Something New, In Pregress**
 - 💬 Ask me about: **MongoDB, Expressjs, Reactjs, Nodejs, REST APIs**
 - 👯 I’m open to collaborate on **Open Source & MERN Projects**
 - ⚡ Fun fact: I believe in **building real-world solutions**, not just code!

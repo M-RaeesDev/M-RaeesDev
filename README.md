@@ -67,7 +67,7 @@
 
 ### 📌 Pinned Projects
 
-- 🔗 Chrome Translator Extension (EN ↔ UR)
+- 🔗 Something New, In Progress
 - 🧠 AI-powered Student Assignment Grader
 - 🛒 MERN E-commerce App
 - 📝 Blogging Website

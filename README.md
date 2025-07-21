@@ -71,7 +71,7 @@
 - 🧠 AI-powered Student Assignment Grader
 - 🛒 MERN E-commerce App
 - 📝 Blogging Website
-- 💼 Interactive Resume Builder
+- 💼 Next Auth Using CLerk
 - 🔐 Firebase Auth App
 
 

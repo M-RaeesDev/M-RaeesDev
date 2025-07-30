@@ -33,7 +33,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-RaeesDev&show_icons=true&theme=radical" alt="Raees's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-RaeesDev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Raees's Streak" />
+  <img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=M-RaeesDev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" 
+  alt="GitHub Streak" 
+  style="max-width: 100%; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);" 
+/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-RaeesDev&layout=compact&theme=dracula" />
 </p>
 

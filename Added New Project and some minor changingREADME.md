@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center">💻 Passionate Full Stack Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">💻 Passionate Full Stack Developer</h3>
 
 ---
 
@@ -76,9 +76,10 @@
 
 - 🔗 Something New, In Progress
 - 🧠 AI-powered Student Assignment Grader
-- 🛒 MERN E-commerce App
+- AI Expense Tracker 
+- 🛒 MERN E-commerce 
 - 📝 Blogging Website
 - 💼 Next Auth Using CLerk
-- 🔐 Firebase Auth App
+- 🔐 Firebase Auth 
 
 

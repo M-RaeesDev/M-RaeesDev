@@ -67,8 +67,10 @@
 ### 🧰 Tools I Use Daily
 
 - Visual Studio Code
+- Groq LLM and Api
 - Git & GitHub
 - Postman
+- Clickup
 
 ---
 
@@ -76,7 +78,7 @@
 
 - 🔗 Something New, In Progress
 - 🧠 AI-powered Student Assignment Grader
-- AI Expense Tracker 
+- 🚀 AI Expense Tracker 
 - 🛒 MERN E-commerce 
 - 📝 Blogging Website
 - 💼 Next Auth Using CLerk

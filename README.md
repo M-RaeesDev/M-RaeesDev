@@ -1,5 +1,5 @@
 <!-- Profile Views -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=M-RaeesDev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -38,7 +38,7 @@
 
   <!-- RIGHT SIDE -->
   <div style="flex: 1; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/rajeshroy402/cdn/undraw_developer_activity_re_39tg.svg" width="300px" alt="Developer illustration" />
+    <img src="[https://cdn.jsdelivr.net/gh/rajeshroy402/cdn/undraw_developer_activity_re_39tg.svg](https://iconscout.com/lottie-animation/male-developer-animated-icon_8075895)" width="300px" alt="Developer illustration" />
   </div>
 
 </div>

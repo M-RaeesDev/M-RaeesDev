@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">💻 Passionate Full Stack Developer</h3>
-<p align="center"><b>“Code is not just logic — it's creativity that solves real problems.”</b></p>
+<p align="center"><b>“Code is not just logic, it's creativity that solves real problems.”</b></p>
 
 ---
 
@@ -35,9 +35,9 @@
 
   </td>
   <td width="30%" align="center">
-    <img src="https://undraw.co/api/illustrations/undraw_developer_activity_re_39tg.svg" alt="Developer working" width="250px"/> 
-         alt="Developer Animation" width="200px" />
-  </td>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+       alt="Developer Coding Animation" width="300px"/>
+</td>
   </tr>
 </table>
 

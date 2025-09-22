@@ -21,27 +21,25 @@
 
 ---
 
-## 🚀 About Me  
+## 👨‍💻 About Me  
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<table>
+  <tr>
+    <td width="60%">
+      
+✨ Hi, I’m **Raees**, a passionate Computer Science student and aspiring **MERN Stack Developer**.  
+💡 I love building **creative web apps**, experimenting with **AI-powered projects**, and constantly learning new tech.  
+🚀 Currently working on: **AI-Powered Real-Time Product Trust Score Platform (CrowdRate)**.  
+🎯 Goal: To become an **ICT Officer in the Military** & build impactful full-stack solutions.  
 
-  <!-- LEFT SIDE -->
-  <div style="flex: 1; text-align: left;">
+  </td>
+  <td width="40%" align="center">
+    <img src="https://cdn-iconscout.com/lottie/premium/preview-watermark/male-developer-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--computer-programmer-man-working-on-software-code-animation-pack-icons-8075895.gif" 
+         alt="Developer Animation" width="200px" />
+  </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **Agentic AI, Python Programming**  
-- 🔭 I’m currently working on: a **Something New, In Progress**  
-- 💬 Ask me about: **MongoDB, Expressjs, Reactjs, Nodejs, REST APIs**  
-- 👯 I’m open to collaborate on **Open Source & MERN Projects**  
-- ⚡ Fun fact: I believe in **building real-world solutions, not just code!**  
-
-  </div>
-
-  <!-- RIGHT SIDE -->
-  <div style="flex: 1; text-align: center;">
-    <img src="[https://cdn.jsdelivr.net/gh/rajeshroy402/cdn/undraw_developer_activity_re_39tg.svg](https://iconscout.com/lottie-animation/male-developer-animated-icon_8075895)" width="300px" alt="Developer illustration" />
-  </div>
-
-</div>
 
 
 ### 🛠️ Tech Stack

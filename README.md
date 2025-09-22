@@ -23,11 +23,10 @@
 
 ## 🚀 About Me  
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- LEFT SIDE -->
-      <td width="55%" valign="top">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+  <!-- LEFT SIDE -->
+  <div style="flex: 1; text-align: left;">
 
 - 🌱 I’m currently learning **Agentic AI, Python Programming**  
 - 🔭 I’m currently working on: a **Something New, In Progress**  
@@ -35,14 +34,13 @@
 - 👯 I’m open to collaborate on **Open Source & MERN Projects**  
 - ⚡ Fun fact: I believe in **building real-world solutions, not just code!**  
 
-      </td>
+  </div>
 
-      <!-- RIGHT SIDE -->
-      <td width="45%" valign="top" align="center">
-        <img src="https://cdn.jsdelivr.net/gh/rajeshroy402/cdn/undraw_developer_activity_re_39tg.svg" width="300px" alt="Developer illustration" />
-      </td>
-    </tr>
-  </table>
+  <!-- RIGHT SIDE -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/rajeshroy402/cdn/undraw_developer_activity_re_39tg.svg" width="300px" alt="Developer illustration" />
+  </div>
+
 </div>
 
 

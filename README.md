@@ -6,7 +6,7 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFD700&stroke=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Raees;MERN+Stack+Developer;MongoDB%2C+Express%2C+React%2C+Node" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00ffff&stroke=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Raees;MERN+Stack+Developer;MongoDB%2C+Express%2C+React%2C+Node" alt="Typing SVG" />
 </p>
 
 <h3 align="center">💻 Passionate Full Stack Developer</h3>
@@ -14,9 +14,9 @@
 
 ---
 
-<!-- Trophy Cups (Black, White & Golden) -->
+<!-- Trophy Cups (same as your screenshot style) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-RaeesDev&theme=onestar&margin-w=10&margin-h=10&no-frame=true&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=M-RaeesDev&theme=flat&margin-w=5&margin-h=5&no-frame=true&row=1" alt="trophies" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 
       <!-- RIGHT SIDE -->
       <td width="45%" valign="top" align="center">
-        <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2b3bd67d3d0d6e93803c7107f.png?compress=1&resize=400x300" width="300px" alt="Developer illustration" />
+        <img src="https://cdn.jsdelivr.net/gh/rajeshroy402/cdn/undraw_developer_activity_re_39tg.svg" width="300px" alt="Developer illustration" />
       </td>
     </tr>
   </table>

@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me  
 
-<table>
+<table align="center">
   <tr>
     <td width="70%">
       
@@ -35,7 +35,7 @@
 
   </td>
   <td width="30%" align="center">
-    <img src="https://cdn-iconscout.com/lottie/premium/preview-watermark/male-developer-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--computer-programmer-man-working-on-software-code-animation-pack-icons-8075895.gif" 
+    <img src="https://undraw.co/api/illustrations/undraw_developer_activity_re_39tg.svg" alt="Developer working" width="250px"/> 
          alt="Developer Animation" width="200px" />
   </td>
   </tr>

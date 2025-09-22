@@ -27,10 +27,11 @@
   <tr>
     <td width="60%">
       
-✨ Hi, I’m **Raees**, a passionate Computer Science student and aspiring **MERN Stack Developer**.  
-💡 I love building **creative web apps**, experimenting with **AI-powered projects**, and constantly learning new tech.  
-🚀 Currently working on: **AI-Powered Real-Time Product Trust Score Platform (CrowdRate)**.  
-🎯 Goal: To become an **ICT Officer in the Military** & build impactful full-stack solutions.  
+- 🌱 I’m currently learning **Agentic AI, Python Programming**  
+- 🔭 I’m currently working on: a **Something New, In Progress**  
+- 💬 Ask me about: **MongoDB, Expressjs, Reactjs, Nodejs, REST APIs**  
+- 👯 I’m open to collaborate on **Open Source & MERN Projects**  
+- ⚡ Fun fact: I believe in **building real-world solutions, not just code!**  
 
   </td>
   <td width="40%" align="center">

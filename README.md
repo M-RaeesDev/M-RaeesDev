@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="70%">
       
 - 🌱 I’m currently learning **Agentic AI, Python Programming**  
 - 🔭 I’m currently working on: a **Something New, In Progress**  
@@ -34,7 +34,7 @@
 - ⚡ Fun fact: I believe in **building real-world solutions, not just code!**  
 
   </td>
-  <td width="40%" align="center">
+  <td width="30%" align="center">
     <img src="https://cdn-iconscout.com/lottie/premium/preview-watermark/male-developer-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--computer-programmer-man-working-on-software-code-animation-pack-icons-8075895.gif" 
          alt="Developer Animation" width="200px" />
   </td>

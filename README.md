@@ -27,11 +27,11 @@
   <tr>
     <td width="70%">
       
-- 🌱 I’m currently learning **Agentic AI, Python Programming**  
-- 🔭 I’m currently working on: a **Something New, In Progress**  
-- 💬 Ask me about: **MongoDB, Expressjs, Reactjs, Nodejs, REST APIs**  
-- 👯 I’m open to collaborate on **Open Source & MERN Projects**  
-- ⚡ Fun fact: I believe in **building real-world solutions, not just code!**  
+- I’m currently learning **Agentic AI, Python Programming**  
+- I’m currently working on: a **Something New, In Progress**  
+- Ask me about: **MongoDB, Expressjs, Reactjs, Nodejs, REST APIs**  
+- I’m open to collaborate on **Open Source AI & MERN Projects**  
+- Fun fact: I believe in **building real-world solutions, not just code!**  
 
   </td>
   <td width="30%" align="center">

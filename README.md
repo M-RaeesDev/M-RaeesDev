@@ -99,6 +99,8 @@
 ### 📌 Pinned Projects
 
 - 🔗 Something New, In Progress
+- 📚 AI Transalation Chrome Extension
+- 👓 AI Lead Generation Web
 - 🧠 AI-powered Student Assignment Grader
 - 🚀 AI Expense Tracker 
 - 🛒 MERN E-commerce 

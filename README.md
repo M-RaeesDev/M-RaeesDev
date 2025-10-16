@@ -98,14 +98,14 @@
 
 ### PINNED PROJECTS
 
-- 🔗 Something New, In Progress
-- 📚 AI Translation Chrome Extension
-- 👓 AI Lead Generation Web
-- 🧠 AI-powered Student Assignment Grader
-- 🚀 AI Expense Tracker 
-- 🛒 MERN E-commerce 
-- 📝 Blogging Website
-- 💼 Next Auth Using CLerk
-- 🔐 Firebase Auth 
+- Something New, In Progress
+- AI Translation Chrome Extension
+- AI Lead Generation Web
+- AI-powered Student Assignment Grader
+- AI Expense Tracker 
+- MERN E-commerce 
+- Blogging Website
+- Next Auth Using CLerk
+- Firebase Auth 
 
 

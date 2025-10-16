@@ -21,7 +21,7 @@
 
 ---
 
-## About Me  
+## ABOUT ME  
 
 <table align="center">
   <tr>
@@ -43,7 +43,7 @@
 
 
 
-### Tech Stack
+### TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,ts,js,html,css,firebase,git,github,vscode,groq" />
@@ -51,7 +51,7 @@
 
 ---
 
-### GitHub Stats
+### GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-RaeesDev&show_icons=true&theme=radical" alt="Raees's GitHub Stats" />
@@ -61,7 +61,7 @@
 
 ---
 
-### Connect with Me
+### CONNECT WITH ME
 
 <p align="center">
   <a href="mailto:your.raeesawan161@gmail.com">
@@ -78,7 +78,7 @@
 
 ---
 
-### GitHub Contribution Graph
+### GITHUB CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-RaeesDev&theme=github-compact&area=true&custom_title=My%20Contribution%20Graph" />
@@ -86,7 +86,7 @@
 
 ---
 
-### Tools I Use Daily
+### TOOLS I USE DAILY
 
 - Visual Studio Code
 - Groq LLM and Api
@@ -96,7 +96,7 @@
 
 ---
 
-### Pinned Projects
+### PINNED PROJECTS
 
 - 🔗 Something New, In Progress
 - 📚 AI Translation Chrome Extension

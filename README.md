@@ -3,13 +3,13 @@
   <img src="https://komarev.com/ghpvc/?username=M-RaeesDev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h1 align="center">👋 WELCOME TO MY GITHUB PROFILE</h1>
+<h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00ffff&stroke=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Raees;MERN+Stack+Developer;MongoDB%2C+Express%2C+React%2C+Node" alt="Typing SVG" />
 </p>
 
-<h3 align="center">💻 PASSIANOTE FULL STACK DEVELOPER</h3>
+<h3 align="center">PASSIANOTE FULL STACK DEVELOPER</h3>
 <p align="center"><b>“Code is not just logic, it's creativity that solves real problems.”</b></p>
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## About Me  
 
 <table align="center">
   <tr>
@@ -43,7 +43,7 @@
 
 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,ts,js,html,css,firebase,git,github,vscode,groq" />
@@ -51,7 +51,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-RaeesDev&show_icons=true&theme=radical" alt="Raees's GitHub Stats" />
@@ -61,7 +61,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="mailto:your.raeesawan161@gmail.com">
@@ -78,7 +78,7 @@
 
 ---
 
-### 🔥 GitHub Contribution Graph
+### GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-RaeesDev&theme=github-compact&area=true&custom_title=My%20Contribution%20Graph" />
@@ -86,7 +86,7 @@
 
 ---
 
-### 🧰 Tools I Use Daily
+### Tools I Use Daily
 
 - Visual Studio Code
 - Groq LLM and Api
@@ -96,7 +96,7 @@
 
 ---
 
-### 📌 Pinned Projects
+### Pinned Projects
 
 - 🔗 Something New, In Progress
 - 📚 AI Translation Chrome Extension

@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00ffff&stroke=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Muhammad+Raees;MERN+Stack+Developer;MongoDB%2C+Express%2C+React%2C+Node" alt="Typing SVG" />
 </p>
 
-<h3 align="center">💻 Passionate Full Stack Developer</h3>
+<h3 align="center">💻 PASSIANOTE FULL STACK DEVELOPER</h3>
 <p align="center"><b>“Code is not just logic, it's creativity that solves real problems.”</b></p>
 
 ---

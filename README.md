@@ -89,7 +89,7 @@
 ### TOOLS I USE DAILY
 
 - Visual Studio Code
-- Groq LLM and Api
+- Groq LLM Api Dashboard
 - Git & GitHub
 - Postman
 - Clickup
